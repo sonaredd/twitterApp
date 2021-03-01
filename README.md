@@ -1,6 +1,6 @@
 # Project 3 - *Name of App Here*
 
-Twitter is a basic twitter app to read your tweets.
+Twit is a basic twitter app to read your tweets.
 
 Time spent: 7 hours spent in total
 
