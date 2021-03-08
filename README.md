@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://recordit.co/kQk0x754T0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-# Project 3 - *Name of App Here*
+# Project 3 - Twitter
 
 Twit is a basic twitter app to read your tweets.
 
